@@ -1,8 +1,17 @@
----
+--
 services: iot-hub
 platforms: Nodejs
 author: shizn
 ---
+
+![Alt text](path/to/your/img.png)
+
+Installation
+-----------
+
+```
+gem install github-markup
+```
 
 # IoT Hub Raspberry Pi 3 Client application
 [![Build Status](https://travis-ci.com/Azure-Samples/iot-hub-node-raspberrypi-client-app.svg?token=5ZpmkzKtuWLEXMPjmJ6P&branch=master)](https://travis-ci.com/Azure-Samples/iot-hub-node-raspberrypi-client-app)
